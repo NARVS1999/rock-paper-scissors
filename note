@@ -1,22 +1,14 @@
-#computerPlay
+done #computerPlay
 *make a function name computerPlay
 *make computerPlay give/return a random output of rock, paper and scissors
 
-function playRound(playerSelection, computerSelection) {
-  // your code here!
-}
-
-const playerSelection = "rock";
-const computerSelection = computerPlay();
-console.log(playRound(playerSelection, computerSelection));
-
-#playerSelection
+done #playerSelection
 *make a variable that get the user input
 
-#computerSelection
+done #computerSelection
 *make a variable that call the computerPlay
 
-#playRound
+done #playRound
 *make a function that have two parameter (playerSelection, computerSelection)
 *write code in function that return/give the result of playerSelection and computerPlay if they win or lose
     *playerSelection = rock; and computerSelection = scissors; return "You win"
@@ -27,3 +19,7 @@ console.log(playRound(playerSelection, computerSelection));
     *playerSelection = paper; and computerSelection = scissors; return "You loss the game"
     *playerSelection = scissors; and computerSelection = rock; return "You loss the game"
     
+# game
+* make a function than gave a round of total of 5
+* write the code to a function  than show the score of computer and player up to 5 round 
+* write the code to a function  the show final result if the player win or computer win or its a tie. 
