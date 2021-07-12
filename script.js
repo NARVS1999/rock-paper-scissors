@@ -67,6 +67,7 @@ function game() {
     for (let i = 1; i <= 5; ++i) {
         playRound(computerSelection, playerSelection);
         console.log("Player Score: " + playerScore + " | " + "Computer Score: " + computerScore);
+        console.log(">>>>> GAME " + i + " <<<<<")
     }
     
     if(playerScore > computerScore) {
