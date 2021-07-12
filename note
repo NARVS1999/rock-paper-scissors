@@ -19,7 +19,7 @@ done #playRound
     *playerSelection = paper; and computerSelection = scissors; return "You loss the game"
     *playerSelection = scissors; and computerSelection = rock; return "You loss the game"
     
-# game
+done # game
 * make a function than gave a round of total of 5
 * write the code to a function  than show the score of computer and player up to 5 round 
 * write the code to a function  the show final result if the player win or computer win or its a tie. 
